@@ -1,0 +1,2 @@
+﻿  BonDriverProxyEx.cpp
+C:\Users\gunboy\source\repos\BonDriverProxyEx\BonDriverProxyEx\BonDriverProxyEx.h(12,10): fatal error C1083: include ファイルを開けません。'aribb25/B25Decoder.h':No such file or directory
